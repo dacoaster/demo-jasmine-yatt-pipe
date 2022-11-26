@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Hello W Generator" errors="0" tests="3" failures="0" time="0.006" timestamp="2022-11-27T00:55:50">
+  <testcase classname="Hello W Generator" name="returns an array" time="0.002"></testcase>
+  <testcase classname="Hello W Generator" name="returns the correct number of Hello Worlds" time="0"></testcase>
+  <testcase classname="Hello W Generator" name="returns only Hello Worlds" time="0"></testcase>
+</testsuite>
+</testsuites>

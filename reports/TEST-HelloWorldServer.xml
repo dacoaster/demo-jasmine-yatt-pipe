@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Hello World Server" errors="0" tests="0" failures="0" time="0" timestamp="2022-11-27T00:55:50">
+</testsuite>
+<testsuite name="Hello World Server.GET /" errors="0" tests="2" failures="0" time="0.068" timestamp="2022-11-27T00:55:50">
+  <testcase classname="Hello World Server.GET /" name="returns status code 200" time="0.052"></testcase>
+  <testcase classname="Hello World Server.GET /" name="returns Hello World array" time="0.013"></testcase>
+</testsuite>
+</testsuites>
